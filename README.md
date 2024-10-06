@@ -1,6 +1,12 @@
 # datafun-07-applied
 
-#Setup
+# Project description
+```
+create a guided project. There is no specification - we introduce some topics including machine learning as we work through the module. The project will include Jupyter. 
+```
+
+
+# Setup
 ```
 Created gitignore and venv opjects
 
